@@ -30,4 +30,9 @@ def using_push(array, ele)
   array.insert(ele)
 end
 
+def using_unique(array)
+  array.unique
+end
+
+
 
