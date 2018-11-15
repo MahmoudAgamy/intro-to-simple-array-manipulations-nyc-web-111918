@@ -1,5 +1,6 @@
 def using_push(array, str)
   array.push(str)
+  return array
 end
 
 def using_push(array, str)
