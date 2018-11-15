@@ -1,9 +1,9 @@
 def using_push(array, str)
   array.push(str)
-  return array
+
 end
 
-def using_push(array, str)
+def using_unshift(array, str)
   array.unshift(str)
 end
 
