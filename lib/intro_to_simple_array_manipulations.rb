@@ -34,8 +34,14 @@ def using_unique(array)
   array.unique
 end
 
-def using_concat(array1, array2)
-  array1.concat(array2)
+def using_flatten(array)
+  array1.flatten
 end
+
+def using_delete(array, str)
+  array1.delete(str)
+end
+
+
 
 
